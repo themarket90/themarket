@@ -128,7 +128,3 @@ You can follow the links below to get our beta version of releases
 你可以从下面的链接直接获取Mac和Win 10 64bit版本的The Market应用
 
 https://github.com/themarket90/themarket/releases
-
-Mac Version •  TheMarket-0.2.3.dmg 160 MB 
-
-Win10 64bit Version •  TheMarket.Setup.0.2.3.zip 117 MB 
