@@ -2,8 +2,49 @@
 
 The Market/集市
 Original Digital Content Distribution Chain（ODCDC）
+
+
 原创数字内容发布链
 
+
+Highlight亮点
+
+
+A decentralized application based on Blockchain and IPFS
+
+基于区块链的去中心化应用
+
+Digital content distributed and purchased here can’s be surveilled 
+
+不受限制的数字内容分发、购买
+
+Anonymous distribution and purchase and not traceable
+
+分发和购买完全匿名、不可追溯
+
+Imbedded anonymous communication tool with end-to-end encryption 
+
+内置匿名而且端对端加密的即时通讯工具
+
+Imbedded media played and viewer to prevent reproduction 
+
+程序自带媒体播放器，购买后的内容不可二次分发、转售
+
+Build-in upgrade tool to upgrade the App itself from IPFS
+
+程序内置升级工具-通过去中心化网络升级
+
+Build-in coin digging mechanism, the obtained coins can be used to purchase content from platform
+
+内置挖矿功能，PC 、Mac安装后开机即可挖矿，获得的ODC币直接用于购买内容
+
+10 billion ODCs to be dug in the next 10 years
+
+100亿个ODC，十年挖完
+
+Imbedded market to exchange ETH and ODC
+
+自带ODC同以太坊之间的自由交易市场功能
 
 
 Where Are We/我们在哪里
